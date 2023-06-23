@@ -2,3 +2,5 @@ paso 1
 amasar
 paso 2
 cocinar
+paso 3
+poner el queso
